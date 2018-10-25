@@ -18,7 +18,6 @@ public class Main {
 			int zz = System.in.read();
 			
 			long res = calc(2,3,4);
-			res = cals(1,3,4);
 			
 			long resDouble = doubleCalc(5);
 			
